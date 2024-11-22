@@ -1,0 +1,3 @@
+id  wortstamm    häufigkeit      liste der lieder   songzeilen
+1   alone        350               left
+                 10                   lsiejfk
