@@ -1,6 +1,4 @@
 # read lyrics from file and parse them into objects
-
-import os
 import re
 from typing import List
 from data_model.Song import Song, Block 

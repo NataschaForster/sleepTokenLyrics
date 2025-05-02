@@ -12,3 +12,10 @@ class Song:
         self.title = title
         self.blocks: List[Block] = []
 
+class Result:
+    def __init__(self, id, stem, amount, songs, line):
+        self.id = id
+        self.stem = stem
+        self.amount = amount
+        self.songs = songs
+        self.line = line
